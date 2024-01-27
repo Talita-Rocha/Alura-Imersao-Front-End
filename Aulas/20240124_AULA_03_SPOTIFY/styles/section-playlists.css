@@ -1,0 +1,33 @@
+.playlists-container{
+    max-width: 80vw;
+    height: 300vh;
+    margin-left: 320px;
+    margin-right: 56px;
+    background-color: red;
+}
+
+.playlists-content h1{
+    color: aqua;
+}
+
+.playlists-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: red;
+    padding: 12px;
+}
+
+
+.playlists-container .playlists-content a{
+    color: blueviolet;
+}
+
+.album{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
